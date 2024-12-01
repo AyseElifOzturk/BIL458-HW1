@@ -13,6 +13,5 @@ public class App {
         first = second;
         second = temp;
         System.out.println("First number:"+first+"  Second number:"+second);
-        
     }
 }
